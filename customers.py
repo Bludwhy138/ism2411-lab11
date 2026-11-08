@@ -1,3 +1,16 @@
+# Reflection Question 1:
+# I would use .get() when a key might not exist because it prevents
+# a KeyError and allows me to provide a default value. I would use
+# bracket notation when I know the key should always be present.
+# My rule of thumb is to use .get() for optional data and brackets
+# for required data.
+
+# Reflection Question 2:
+# This pattern reminds me of a PivotTable or summary report in Excel
+# because it groups and totals data. The Python version is more useful
+# for large datasets because it can automatically process thousands of
+# records with loops and calculations.
+
 # Exercise 1
 
 customer = {
